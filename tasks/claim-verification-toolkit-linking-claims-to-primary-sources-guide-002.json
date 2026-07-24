@@ -1,0 +1,29 @@
+{
+  "id": "claim-verification-toolkit-linking-claims-to-primary-sources-guide-002",
+  "title": "Linking claims to primary sources guide",
+  "project": "claim-verification-toolkit",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "open-science",
+    "provenance",
+    "software"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Clear, source-cited guidance on linking claims to primary sources is scattered; an open, plain-language guide helps.",
+  "objective": "Write a plain-language, source-cited guide to linking claims to primary sources.",
+  "acceptanceCriteria": [
+    "Covers linking claims to primary sources clearly and accurately",
+    "Cites >=2 authoritative open sources with links",
+    "CC-BY-4.0 header"
+  ],
+  "output": "deliverables/claim-verification-toolkit-linking-claims-to-primary-sources-guide-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

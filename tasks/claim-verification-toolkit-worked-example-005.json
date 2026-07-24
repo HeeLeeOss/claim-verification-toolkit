@@ -1,0 +1,29 @@
+{
+  "id": "claim-verification-toolkit-worked-example-005",
+  "title": "Worked sourcing example",
+  "project": "claim-verification-toolkit",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "open-science",
+    "provenance",
+    "software"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "A concrete example shows the provenance output.",
+  "objective": "Produce a worked example linking a few claims to primary sources with provenance records.",
+  "acceptanceCriteria": [
+    "Links claims to real primary sources",
+    "Records provenance; no truth verdicts",
+    "MIT header + citations"
+  ],
+  "output": "deliverables/claim-verification-toolkit-worked-example-005.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

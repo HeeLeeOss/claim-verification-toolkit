@@ -1,0 +1,29 @@
+{
+  "id": "claim-verification-toolkit-evaluation-limits-004",
+  "title": "Evaluation and limits",
+  "project": "claim-verification-toolkit",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "open-science",
+    "provenance",
+    "software"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Honesty about what the toolkit cannot do is essential.",
+  "objective": "Document how to evaluate sourcing quality and the toolkit's explicit limits (does not determine truth).",
+  "acceptanceCriteria": [
+    "Defines sourcing-quality evaluation",
+    "States limits: not an arbiter of truth",
+    "MIT header"
+  ],
+  "output": "deliverables/claim-verification-toolkit-evaluation-limits-004.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

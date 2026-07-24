@@ -1,0 +1,30 @@
+{
+  "id": "claim-verification-toolkit-sourcing-framework-001",
+  "title": "Sourcing framework (surface provenance, not adjudicate)",
+  "project": "claim-verification-toolkit",
+  "type": "code",
+  "lane": "donated",
+  "priority": "high",
+  "domain": [
+    "open-science",
+    "provenance",
+    "software"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "The toolkit surfaces sources; it does not decide truth.",
+  "objective": "Define a framework that links claims to primary sources and records provenance, explicitly not adjudicating truth.",
+  "acceptanceCriteria": [
+    "Links claims to primary sources with provenance",
+    "Explicitly does NOT adjudicate truth or rate sources",
+    "Neutral, non-partisan",
+    "MIT header"
+  ],
+  "output": "deliverables/claim-verification-toolkit-sourcing-framework-001.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

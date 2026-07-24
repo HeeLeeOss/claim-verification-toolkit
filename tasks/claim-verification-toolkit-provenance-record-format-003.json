@@ -1,0 +1,29 @@
+{
+  "id": "claim-verification-toolkit-provenance-record-format-003",
+  "title": "Provenance record format",
+  "project": "claim-verification-toolkit",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "open-science",
+    "provenance",
+    "software"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Auditable sourcing needs a standard record.",
+  "objective": "Define the provenance record format (claim, source, locator, retrieved date).",
+  "acceptanceCriteria": [
+    "Defines the provenance record schema",
+    "Includes a worked example",
+    "MIT header"
+  ],
+  "output": "deliverables/claim-verification-toolkit-provenance-record-format-003.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}
